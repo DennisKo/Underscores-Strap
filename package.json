@@ -1,0 +1,32 @@
+{
+  "name": "_s",
+  "version": "0.1.0",
+  "description": "_s starter theme",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thinkxl/_s"
+  },
+  "keywords": [
+    "WordPress",
+    "Starter",
+    "Grunt",
+    "Underscores",
+    "sass"
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-sass": "latest",
+    "jit-grunt": "^0.8.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-autoprefixer": "~1.0.0",
+    "grunt-contrib-concat": "~0.5.0",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "load-grunt-tasks": "~0.6.0",
+    "time-grunt": "~0.4.0"
+  }
+}
