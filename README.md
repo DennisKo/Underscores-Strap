@@ -31,6 +31,7 @@ v0.1.0
 ##Misc
 ###Font Awesome
 * Glyphicons are replaced with [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+
 ###Bootstrap Menu
 * A custom [WordPress nav walker](https://github.com/twittem/wp-bootstrap-navwalker) class to fully implement the Bootstrap 3.0+ navigation style in a custom theme using the WordPress built in menu manager.
 * inc/wp_bootstrap_navwalker.php
