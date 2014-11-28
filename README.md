@@ -1,10 +1,10 @@
 
-Underscores-Strap
+Underscores-Strap 
 ===
 
-
-* [Wordpress starter theme called _s, or underscores](https://github.com/)
-* [Bootstrap for Sass](https://github.com/twbs/bootstrap-sass)
+v0.1.0
+* [Wordpress starter theme called _s, or underscores](https://github.com/Automattic/_s)
+* [Bootstrap for Sass v3.3.1](https://github.com/twbs/bootstrap-sass)
 * [Grunt](http://gruntjs.com/)
 
 
