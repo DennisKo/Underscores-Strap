@@ -21,7 +21,7 @@ Underscores-Strap
 ###CSS
 * Edit any file in styles/
 * styles/style.scss for all the imports
-* Remove/Comment out unwanted components in sass/bootstrap/_bootstrap.scss
+* Remove/Comment out unwanted components in styles/bootstrap/_bootstrap.scss
 
 ###Javascript
 * js/_custom.js for your custom JS
